@@ -3,8 +3,8 @@
 try {
     $pdo = new PDO(
         "mysql:host=localhost;dbname=u82671;charset=utf8mb4",
-        "u82671",
-        "1266050"
+        "u82665",
+        "3079533"
     );
     $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
     
