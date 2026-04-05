@@ -4,9 +4,9 @@ ini_set('display_errors', 1);
 
 // Настройки подключения к БД
 $host = 'localhost';
-$dbname = 'u82671';        // ваша база данных
-$username = 'u82671';      // ваш логин
-$password = '1266050';   // ваш пароль
+$dbname = 'u82665';        // ваша база данных
+$username = 'u82665';      // ваш логин
+$password = '3079533';   // ваш пароль
 
 $errors = [];
 $success = false;
